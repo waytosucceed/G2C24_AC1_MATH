@@ -1,0 +1,63 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Add the blocks and find the total.",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "21"
+      ],
+      "correct": 1,
+      "secondImg":"./images/1.jpg"
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Find the total by adding the given blocks.",
+      "options": [
+        "24",
+        "23",
+        "25",
+        "22"
+      ],
+      "correct": 0,
+      "secondImg":"./images/2.jpg"
+    },
+    {
+      "questionNo": "Q3",
+      "question": " Find the total by adding the given blocks.",
+      "options": [
+        "30",
+        "32",
+        "33",
+        "34"
+      ],
+      "correct": 2,
+      "secondImg":"./images/3.jpg"
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Add the blocks and find the total.",
+      "options": [
+        "35",
+        "33",
+        "32",
+        "34"
+      ],
+      "correct": 3,
+      "secondImg":"./images/4.jpg"
+    },
+    {
+      "questionNo": "Q5",
+      "question": " Find the total by adding the given blocks.",
+      "options": [
+        "52",
+        "53",
+        "51",
+        "50"
+      ],
+      "correct": 0,
+      "secondImg":"./images/5.jpg"
+    }
+  ]
+  
